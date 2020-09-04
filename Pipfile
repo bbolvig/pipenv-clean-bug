@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pytest = "==5.3.5"
+pytest = "*"
 
 [requires]
 python_version = "3.8"
