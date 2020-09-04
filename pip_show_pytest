@@ -6,5 +6,5 @@ Author: Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Br
 Author-email: None
 License: MIT license
 Location: /home/boris/.local/share/virtualenvs/pytestinstall-caOKm5Q0/lib/python3.8/site-packages
-Requires: packaging, more-itertools, wcwidth, attrs, py, pluggy
+Requires: py, pluggy, packaging, wcwidth, more-itertools, attrs
 Required-by: 
