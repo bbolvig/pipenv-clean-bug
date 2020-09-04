@@ -1,0 +1,10 @@
+Name: pytest
+Version: 5.3.5
+Summary: pytest: simple powerful testing with Python
+Home-page: https://docs.pytest.org/en/latest/
+Author: Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin and others
+Author-email: None
+License: MIT license
+Location: /home/boris/.local/share/virtualenvs/pytestinstall-caOKm5Q0/lib/python3.8/site-packages
+Requires: packaging, more-itertools, wcwidth, attrs, py, pluggy
+Required-by: 
